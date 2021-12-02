@@ -1,0 +1,21 @@
+{
+  "name": "audit_project_2021_12_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1040.0",
+    "joi": "^17.4.2",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/uuid": "^8.3.3"
+  }
+}
